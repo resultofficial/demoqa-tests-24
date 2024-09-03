@@ -1,3 +1,5 @@
+package zzzz;
+
 import org.junit.jupiter.api.*;
 
 public class SimpleJUnitTest {
